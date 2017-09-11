@@ -2,9 +2,10 @@
 
 A curated collection of service worker resources.
 
-> A service worker is an event-driven worker registered against an origin and a path. It takes the form of a JavaScript file that can control the web page/site it is associated with, intercepting and modifying navigation and resource requests, and caching resources in a very granular fashion to give you complete control over how your app behaves in certain situations (the most obvious one being when the network is not available.)
+<a href="https://pwabook.com/oreillyasw"><img align="right" src="images/mpwa.png" alt="Building Progressive Web Apps"></a>
+>Service workers are at the heart of every progressive web app. Their persistent nature allows progressive web apps to fulfill our expectations of what an app should do. They are the missing link between what only native apps could do and what modern progressive web apps can do.
 >
-> -- <cite>[Mozilla Developer Network - Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)</cite>
+> -- <cite>[Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw)</cite>
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
@@ -21,9 +22,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Must Reads
 
-<a href="https://pwabook.com/oreillyasw"><img align="right" src="https://github.com/TalAter/awesome-progressive-web-apps/raw/master/images/mpwa.png" alt="Building Progressive Web Apps"></a>
-- [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A gentle introduction to service workers.
 - [Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw) - A hands-on guide and reference for service workers, caching strategies, push notifications, and more. Everything you need to build a modern progressive web app.
+- [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A gentle introduction to service workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - A great Udacity course introducing service workers and IndexedDB.
 - [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff).
 
