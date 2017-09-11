@@ -2,7 +2,7 @@
 
 A curated collection of service worker resources.
 
-<a href="https://pwabook.com/oreillyasw"><img align="right" src="images/mpwa.png" alt="Building Progressive Web Apps"></a>
+<a href="https://pwabook.com/oreillyasw"><img align="right" src="https://github.com/TalAter/awesome-progressive-web-apps/raw/master/images/mpwa.png" alt="Building Progressive Web Apps"></a>
 >Service workers are at the heart of every progressive web app. Their persistent nature allows progressive web apps to fulfill our expectations of what an app should do. They are the missing link between what only native apps could do and what modern progressive web apps can do.
 >
 > -- <cite>[Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw)</cite>
