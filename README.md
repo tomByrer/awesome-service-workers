@@ -54,6 +54,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
 - [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources.
 - [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
+- [Workbox](https://github.com/GoogleChrome/workbox) - A library that bakes in a set of best practices and removes the boilerplate every developer writes when working with service workers.
 
 ## Videos
 
