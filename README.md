@@ -74,3 +74,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
 - [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
 - [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+- [Cloudflare Workers](https://github.com/tomByrer/awesome-cloudflare-workers) - Cloud-hosted, so allows service workers to run before reaching clients
